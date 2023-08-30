@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.18",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Cole_Splatter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"ProceduralMeshComponent"
+			]
+		}
+	]
+}
